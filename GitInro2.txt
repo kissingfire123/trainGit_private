@@ -2,6 +2,8 @@
 
 配置repository
 
+I add one Line at here of file2
+
 
 
 
