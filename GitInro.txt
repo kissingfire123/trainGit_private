@@ -1,0 +1,9 @@
+﻿1.初步认识git
+git 下载目录： https://git-scm.com/download
+
+安装了git后，在gitbash配置git
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+
+
