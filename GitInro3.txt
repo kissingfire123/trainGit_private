@@ -2,6 +2,7 @@
 
 git branch -a  #查看所有分支名
 
+git work directory changes.
 
 
 
