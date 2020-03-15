@@ -7,5 +7,6 @@ $ git config --global user.email "email@example.com"
 
 I modify 1st 
 
+Git tracks changes.
 
 
