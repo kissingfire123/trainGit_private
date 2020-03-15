@@ -5,5 +5,7 @@ git 下载目录： https://git-scm.com/download
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 
+I modify 1st 
+
 
 
